@@ -1,0 +1,82 @@
+{
+  "logo": "logo.png",
+  "favicon": "favicon.ico",
+  "site_title": "Vipermc",
+  "player_counter": {
+    "text": "Jugadores Conectados en la Network",
+    "demo_ip": "vipermc.life"
+  },
+  "nav_buttons": [
+    {
+      "text": "Unete a discord",
+      "icon": "fab fa-discord",
+      "link": "https://discord.gg/Y5gmcwJWtT",
+      "target": "_blank"
+    },
+    {
+      "text": "Vota ahora",
+      "icon": "fas fa-star",
+      "link": "https://minecraft.buzz/server/16602",
+      "target": "_self"
+    },
+    {
+      "text": "Tienda",
+      "icon": "fas fa-shopping-cart",
+      "link": "http://store.vipermc.life/",
+      "target": "_blank"
+    }
+  ],
+  "hero": {
+    "title": "ViperMC Network",
+    "subtitle": "Únete a nuestra red de servidores premium y disfruta de modalidades únicas, eventos exclusivos y la mejor experiencia Minecraft.",
+    "cta_text": "Unete Ahora",
+    "cta_icon": "fas fa-play"
+  },
+  "features_title": "Modalidades",
+"features_subtitle": "Juega a las diferentes modalidades y disfruta de mecánicas únicas en nuestro servidor",
+"features": [
+  {
+    "icon": "fas fa-snowflake",
+    "title": "SkyWars",
+    "description": "Disfruta de intensas batallas aéreas con tu estrategia y habilidad."
+  },
+  {
+    "icon": "fas fa-fire",
+    "title": "KnockBackFFA",
+    "description": "Combate contra todos en arenas llenas de acción y empuja a tus enemigos fuera del mapa."
+  },
+  {
+    "icon": "fas fa-mountain",
+    "title": "BoxPvP",
+    "description": "Lucha en arenas cerradas con armas personalizadas y habilidades únicas."
+  },
+  {
+    "icon": "fas fa-users",
+    "title": "Arcade Games",
+    "description": "Disfruta de minijuegos variados y competitivos con amigos y jugadores de todo el mundo."
+  },
+  {
+    "icon": "fas fa-rocket",
+    "title": "Actualizaciones Regulares",
+    "description": "Experimenta contenido nuevo cada mes con eventos y características desarrolladas por nuestro equipo dedicado."
+    }
+  ],
+  "final_cta": {
+    "title": "¿Qué estás esperando?",
+    "subtitle": "Únete a la Network",
+    "ip": "vipermc.life",
+    "copy_hint": "Click to copy and join now!"
+  },
+  "vote_popup": {
+    "title": "Vote por el servidor",
+    "links": [
+      { "text": "Vote Site 1", "url": "https://minecraft.buzz/server/16602" },
+      { "text": "Vote Site 2", "url": "https://minecraft.buzz/server/16602" },
+      { "text": "Vote Site 3", "url": "https://minecraft.buzz/server/16602" },
+      { "text": "Vote Site 4", "url": "https://minecraft.buzz/server/16602" },
+      { "text": "Vote Site 5", "url": "https://minecraft.buzz/server/16602" }
+    ]
+  },
+  "copy_notification": "IP COPIADA!",
+  "footer": "© 2025 ViperMC Network -. Todos los derechos reservados"
+} 
